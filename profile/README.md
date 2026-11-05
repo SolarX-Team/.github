@@ -22,3 +22,5 @@ SolarX is an open research team on world models. We release model weights, datas
   [Blog](https://solarx-team.github.io/H3-Streaming-VAE-Decoder/) · [Code](https://github.com/SolarX-Team/H3-Streaming-VAE-Decoder)
 - **SolarWM H3 Realtime Interaction**: from 4.9 to 24.4 FPS end to end, playable in real time.
   [Blog](https://solarx-team.github.io/SolarWM-H3-Realtime/) · [Code](https://github.com/Junchao-cs/SolarWM/tree/main/deploy/solar_wm)
+- **SolarWM H3 + Memory**: keeps revisited places consistent by reading back the frames the model has already generated.
+  [Blog](https://solarx-team.github.io/SolarWM-H3-Memory/)
