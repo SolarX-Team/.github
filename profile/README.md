@@ -23,4 +23,4 @@ SolarX is an open research team on world models. We release model weights, datas
 - **SolarWM H3 Realtime Interaction**: from 4.9 to 24.4 FPS end to end, playable in real time.
   [Blog](https://solarx-team.github.io/SolarWM-H3-Realtime/) · [Code](https://github.com/Junchao-cs/SolarWM/tree/main/deploy/solar_wm)
 - **SolarWM H3 + Memory**: keeps revisited places consistent by reading back the frames the model has already generated.
-  [Blog](https://solarx-team.github.io/SolarWM-H3-Memory/)
+  [Blog](https://solarx-team.github.io/SolarWM-H3-Memory/) · [Code](https://github.com/Junchao-cs/SolarWM/blob/main/docs/solar_wm/backends/minimax-h3.md#enable-memory) · [Models](https://huggingface.co/junchaoh-cs/SolarWM-H3-33B/tree/main/SolarWM-h3-33B-memory-stage1-158f)
